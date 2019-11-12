@@ -8,5 +8,7 @@ public class Main {
         System.out.println("hello world!");
         System.out.println("publikujemy pierwszy program!!!");
         System.out.println("kolejna zmiana");
+        System.out.println("Edycja przez współpracownika");
+        // konfikt rozwiazany
     }
 }
