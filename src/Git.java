@@ -1,5 +1,3 @@
-package com.company;
-
 // sout -> System.out.prinln();
 // ctrl + D -> duplikowanie lini kodu
 public class Main {
